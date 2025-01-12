@@ -1,4 +1,8 @@
 ## Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawmro&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dawmro&layout=compact&theme=transparent)
+
+[![dawmro profile views](https://u8views.com/api/v1/github/profiles/109994934/views/day-week-month-total-count.svg)](https://u8views.com/github/dawmro)
 
 <!--
 **dawmro/dawmro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
